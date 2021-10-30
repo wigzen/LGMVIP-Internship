@@ -143,7 +143,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
                                                 </div>
                                             </div>
                                             <!-- /.panel -->
-                                            <p class="text-muted text-center"><small>Copyright © 2020 SRMS  </a></small> </p>
+                                            <p class="text-muted text-center"><small>Copyright © 2021 Wigzen  </a></small> </p>
                                         </div>
                                         <!-- /.col-md-11 -->
                                     </div>
