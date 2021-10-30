@@ -20,7 +20,7 @@ const CardList = ({robots})=>{
                             );
                     })
                 }
-                <p className='copy' >Copyright &copy; Nirmalya Saha</p>
+                <p className='copy' >Copyright &copy; Wigzena</p>
             </div>
         );
 }
